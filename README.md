@@ -59,6 +59,6 @@ git clone https://github.com/AleIUPK4/MimickNumpy.git
 ```
 Navigate to the project directory:
 ```
-cd your-repository
+cd MimickNumpy
 ```
 Run the examples or integrate the Mat class into your own project.
