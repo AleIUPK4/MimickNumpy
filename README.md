@@ -39,7 +39,7 @@ print(result_transpose)
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/AleIUPK4/MimickNumpy.git
 ```
 Navigate to the project directory:
 ```
