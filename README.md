@@ -1,3 +1,4 @@
+
 # Numpy Clone (Final Project)
 This Python project provides a simple implementation of a matrix class (Mat) and its subclasses (MatZeros, MatOnes, MatRandom). The goal is to mimic basic matrix operations similar to NumPy but without using NumPy.
 
@@ -15,7 +16,7 @@ There are 3 edit/meta functions:
 - Inverse (`A.inverse()`): produces another matrix that, when multiplied by the original matrix, results in the identity matrix.
 - Flatten (`A.flatten()`): transforms the 2D matrix into a list.
 
-There are basic operations such as; **addition**('+'), **subtraction**('-), **multiplication**('*'), **division**(/), **floor division**('//'), and **matrix multiplication**('@').
+There are basic operations such as; **addition**('+'), **subtraction**('-'), **multiplication**('*'), **division**('/'), **floor division**('//'), and **matrix multiplication**('@').
 
 There are 3 matrix Initialization functions:
 - MatZeros (`MatZeros((a,b))`): creates a matrix filled with zeros based on the dimensions given.
